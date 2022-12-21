@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c15ff7-4541-4432-ac4d-bc1bfb7113af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/MusicPlayer/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/lab/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerizing-django/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dockerizing-django/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab/lab/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab/polls/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dockerizing-django" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

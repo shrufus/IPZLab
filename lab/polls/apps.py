@@ -5,6 +5,6 @@ class PollsConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
     name = "polls"
 
-class MusicPlayerConfig(AppConfig):
+#class MusicPlayerConfig(AppConfig):
 
-    name = "music"
+ #   name = "music"

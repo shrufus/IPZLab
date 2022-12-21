@@ -1,2 +1,6 @@
 import django
-import pillow
+import Pilow
+import docker
+import gunicorn
+import mysqlclient
+import mysql
